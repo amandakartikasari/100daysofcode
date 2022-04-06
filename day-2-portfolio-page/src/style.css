@@ -1,0 +1,32 @@
+header{
+  display: flex;
+  justify-content: center;
+}
+
+.nav{
+  display: flex;
+  list-style-type: none;
+}
+
+.nav li{
+  margin: 0 20px;
+  border: 1px solid green;
+  padding: 5px
+}
+
+.title{
+  color: blue;
+  font-size: 36px;
+  text-align: center;
+}
+
+img{
+  margin: 30px;
+  width: 25%;
+  height: auto;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+}
