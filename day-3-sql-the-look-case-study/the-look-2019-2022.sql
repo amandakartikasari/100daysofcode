@@ -40,3 +40,5 @@ FROM `bigquery-public-data.thelook_ecommerce.products` AS p
     ON o.order_id = oi.order_id
     WHERE o.returned_at IS NOT NULL AND DATE(o.created_at) BETWEEN '2019-03-01' AND '2022-03-31'
     ORDER BY p.category
+
+-- end
