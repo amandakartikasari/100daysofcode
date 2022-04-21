@@ -3,7 +3,7 @@
 A Pen created on CodePen.io. Original URL: [https://codepen.io/amandakartikasari/pen/GRyxjvw](https://codepen.io/amandakartikasari/pen/GRyxjvw).
 
 
-##Note
+## Note
 This project is created in a free 1-hour workshop with Wild Code School.
 
 - Workshop name: Tech Workshop - Learn the basics of coding: HTML and CSS 🇬🇧
