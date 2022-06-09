@@ -5,6 +5,10 @@
 This case study is taken from the 'Dashboard Foundations' certification programme by She Loves Data x Singapore Management University x TIBCO.
 To find out more about the programme [click here](https://www.shelovesdata.com/programs/dashboard-foundations-program/).
 
+<img src="https://user-images.githubusercontent.com/101298450/164998319-c194f8b4-75c0-42b8-9b71-83d710c4b5c2.png" width=25% height=25%>
+
+
+
 ### Introduction
 
 The expense report is prepared for the management team of Company X.
